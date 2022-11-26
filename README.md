@@ -1,2 +1,1 @@
-# unhumanClicks
-An attempt at an autoclicker
+Unhuman Clicks is my attempt at an autoClicker and is open source.
